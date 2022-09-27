@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  horizon-deployments:
+  - apiVersion: v2
+    appVersion: 0.97.3
+    created: "2022-09-27T12:41:03.640482724Z"
+    description: Horizon deployments and autoscaling
+    digest: 8d0da2a97db795f3d3413eb31e00d1c62840471e839593c24deedd9be9e8733d
+    name: horizon-deployments
+    type: application
+    urls:
+    - https://THG-Engagement.github.io/engagement-app-catalog/horizon-deployments-0.1.1.tgz
+    version: 0.1.1
+generated: "2022-09-27T12:41:03.638974701Z"
