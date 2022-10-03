@@ -3,7 +3,7 @@ entries:
   horizon-deployments:
   - apiVersion: v2
     appVersion: 0.97.3
-    created: "2022-09-27T13:54:30.483853035Z"
+    created: "2022-10-03T13:34:17.295969632Z"
     description: Horizon deployments and autoscaling
     digest: 8d0da2a97db795f3d3413eb31e00d1c62840471e839593c24deedd9be9e8733d
     name: horizon-deployments
@@ -14,7 +14,17 @@ entries:
   horizon-routing:
   - apiVersion: v2
     appVersion: 1.8.4
-    created: "2022-09-27T13:54:30.484305239Z"
+    created: "2022-10-03T13:34:17.297334555Z"
+    description: Horizon ingress controllers, certs, ingresses and services.
+    digest: a85a3f50026c25b38ace0a494eaaf897efeca7c2d0822cd9bf6cdf34a494cf0d
+    name: horizon-routing
+    type: application
+    urls:
+    - https://THG-Engagement.github.io/engagement-app-catalog/horizon-routing-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.8.4
+    created: "2022-10-03T13:34:17.296496941Z"
     description: Horizon ingress controllers, certs, ingresses and services.
     digest: bfeb025cf13473be5e486da41fc9df902262cf79cfd9de5622b6efd2b9ca949c
     name: horizon-routing
@@ -22,4 +32,4 @@ entries:
     urls:
     - https://THG-Engagement.github.io/engagement-app-catalog/horizon-routing-0.1.1.tgz
     version: 0.1.1
-generated: "2022-09-27T13:54:30.482908526Z"
+generated: "2022-10-03T13:34:17.294346506Z"
