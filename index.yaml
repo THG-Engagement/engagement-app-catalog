@@ -3,9 +3,9 @@ entries:
   eunomia:
   - apiVersion: v2
     appVersion: unused
-    created: "2022-10-25T15:08:13.749840222Z"
+    created: "2022-10-25T16:06:32.770642184Z"
     description: A Helm chart for deploying K8S services at THG
-    digest: a91e555e87dbed885c3dc60e452a510f8fb1b4b3599dcc78457960c62603cde0
+    digest: 7de712de86a9b84fca9ba9a0e3f3a62c81f9d74fd5d87afc6720808129be3493
     name: eunomia
     type: application
     urls:
@@ -14,7 +14,7 @@ entries:
   horizon-deployments:
   - apiVersion: v2
     appVersion: 0.97.3
-    created: "2022-10-25T15:08:13.750191725Z"
+    created: "2022-10-25T16:06:32.771008584Z"
     description: Horizon deployments and autoscaling
     digest: 8d0da2a97db795f3d3413eb31e00d1c62840471e839593c24deedd9be9e8733d
     name: horizon-deployments
@@ -25,7 +25,7 @@ entries:
   horizon-routing:
   - apiVersion: v2
     appVersion: 1.8.4
-    created: "2022-10-25T15:08:13.751404438Z"
+    created: "2022-10-25T16:06:32.772311385Z"
     description: Horizon ingress controllers, certs, ingresses and services.
     digest: 0bbe12cbee4422af01ed83ce54e8b42ddcafe6ceb09770c42f00abaf1b75036d
     name: horizon-routing
@@ -35,7 +35,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.8.4
-    created: "2022-10-25T15:08:13.751028634Z"
+    created: "2022-10-25T16:06:32.771941085Z"
     description: Horizon ingress controllers, certs, ingresses and services.
     digest: a85a3f50026c25b38ace0a494eaaf897efeca7c2d0822cd9bf6cdf34a494cf0d
     name: horizon-routing
@@ -45,7 +45,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.8.4
-    created: "2022-10-25T15:08:13.75066323Z"
+    created: "2022-10-25T16:06:32.771446884Z"
     description: Horizon ingress controllers, certs, ingresses and services.
     digest: bfeb025cf13473be5e486da41fc9df902262cf79cfd9de5622b6efd2b9ca949c
     name: horizon-routing
@@ -53,4 +53,4 @@ entries:
     urls:
     - https://THG-Engagement.github.io/engagement-app-catalog/horizon-routing-0.1.1.tgz
     version: 0.1.1
-generated: "2022-10-25T15:08:13.747352896Z"
+generated: "2022-10-25T16:06:32.767330581Z"
