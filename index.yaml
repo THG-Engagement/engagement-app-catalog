@@ -3,7 +3,7 @@ entries:
   eunomia:
   - apiVersion: v2
     appVersion: unused
-    created: "2022-11-23T11:06:17.016806999Z"
+    created: "2022-11-30T15:03:20.56314855Z"
     description: A Helm chart for deploying K8S services at THG
     digest: 3b30796db9bceaab6ddab913d9554cd54261c6515b449156db6e93f863c1efc3
     name: eunomia
@@ -13,7 +13,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: unused
-    created: "2022-11-23T11:06:17.016288998Z"
+    created: "2022-11-30T15:03:20.562694944Z"
     description: A Helm chart for deploying K8S services at THG
     digest: 5eff2c262c575e72931ed3b0dbaa81c3ebe3020169ef555016bf6eb40091fb45
     name: eunomia
@@ -23,7 +23,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: unused
-    created: "2022-11-23T11:06:17.015759997Z"
+    created: "2022-11-30T15:03:20.562037336Z"
     description: A Helm chart for deploying K8S services at THG
     digest: cc7eb41a238d804c129f3d4df4fc27d7bde8dd3fcef5e37a3ebfec556dea8cc9
     name: eunomia
@@ -34,9 +34,9 @@ entries:
   horizon-deployments:
   - apiVersion: v2
     appVersion: 0.97.3
-    created: "2022-11-23T11:06:17.017228799Z"
+    created: "2022-11-30T15:03:20.563513754Z"
     description: Horizon deployments and autoscaling
-    digest: 68db79b45b6642bbd953eafb071a9caf56aee117f10e6dd125848d4a3d67a84a
+    digest: ff75e527053bc60008559cf17ad18e8bdc4ce333962ae31083d6f370cc4aa062
     name: horizon-deployments
     type: application
     urls:
@@ -45,7 +45,7 @@ entries:
   horizon-routing:
   - apiVersion: v2
     appVersion: 1.8.4
-    created: "2022-11-23T11:06:17.018563202Z"
+    created: "2022-11-30T15:03:20.564641168Z"
     description: Horizon ingress controllers, certs, ingresses and services.
     digest: 35c389c3e1992f31e16b41329966981563d57ce6d4e23ee2d2851b636b5093c8
     name: horizon-routing
@@ -55,7 +55,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.8.4
-    created: "2022-11-23T11:06:17.018161701Z"
+    created: "2022-11-30T15:03:20.564302664Z"
     description: Horizon ingress controllers, certs, ingresses and services.
     digest: a85a3f50026c25b38ace0a494eaaf897efeca7c2d0822cd9bf6cdf34a494cf0d
     name: horizon-routing
@@ -65,7 +65,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.8.4
-    created: "2022-11-23T11:06:17.0176955Z"
+    created: "2022-11-30T15:03:20.56393296Z"
     description: Horizon ingress controllers, certs, ingresses and services.
     digest: bfeb025cf13473be5e486da41fc9df902262cf79cfd9de5622b6efd2b9ca949c
     name: horizon-routing
@@ -73,4 +73,4 @@ entries:
     urls:
     - https://THG-Engagement.github.io/engagement-app-catalog/horizon-routing-0.1.1.tgz
     version: 0.1.1
-generated: "2022-11-23T11:06:17.009353886Z"
+generated: "2022-11-30T15:03:20.555647855Z"
